@@ -5,7 +5,7 @@
 ---
 
 ## 🎯 Current Focus
-While continuing to apply for Cyber PM roles, I'm strengthening my **technical fluency in offensive security** through hands-on training in:
+Alongside my Cyber PM experience, I'm strengthening my **technical fluency in offensive security** through hands-on training in:
 - Web Application Security (OWASP Top 10)
 - Bug Bounty & Responsible Disclosure (HackerOne)
 - Red Teaming fundamentals (AD and Azure AD)  
